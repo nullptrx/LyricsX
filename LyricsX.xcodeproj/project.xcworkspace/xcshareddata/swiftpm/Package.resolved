@@ -5,17 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/microsoft/appcenter-sdk-apple",
       "state" : {
-        "revision" : "8354a50fe01a7e54e196d3b5493b5ab53dd5866a",
-        "version" : "4.4.2"
-      }
-    },
-    {
-      "identity" : "combinex",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/cx-org/CombineX",
-      "state" : {
-        "revision" : "98096c6b2a51481cb6e4bae8da0a808d8cab09a1",
-        "version" : "0.4.0"
+        "revision" : "b2dc99cfedead0bad4e6573d86c5228c89cff332",
+        "version" : "4.4.3"
       }
     },
     {
@@ -86,8 +77,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/microsoft/PLCrashReporter.git",
       "state" : {
-        "revision" : "6b27393cad517c067dceea85fadf050e70c4ceaa",
-        "version" : "1.10.1"
+        "revision" : "81cdec2b3827feb03286cb297f4c501a8eb98df1",
+        "version" : "1.10.2"
       }
     },
     {
@@ -118,15 +109,6 @@
       }
     },
     {
-      "identity" : "swift-atomics",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/apple/swift-atomics.git",
-      "state" : {
-        "revision" : "3e95ba32cd1b4c877f6163e8eea54afc4e63bf9f",
-        "version" : "0.0.3"
-      }
-    },
-    {
       "identity" : "swiftcf",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/ddddxxx/SwiftCF",
@@ -140,8 +122,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/ddddxxx/SwiftyOpenCC",
       "state" : {
-        "branch" : "v2.0.0-beta",
-        "revision" : "1d8105a0f7199c90af722bff62728050c858e777"
+        "revision" : "1d8105a0f7199c90af722bff62728050c858e777",
+        "version" : "2.0.0-beta"
       }
     },
     {

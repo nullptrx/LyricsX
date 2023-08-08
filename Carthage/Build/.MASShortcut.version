@@ -1,0 +1,10 @@
+{
+  "commitish" : "355b2fc3fa690b14cd0f351d7bf8c2450f02a860",
+  "Mac" : [
+    {
+      "name" : "MASShortcut",
+      "hash" : "d4ec50a1aadb9ce6bf908c6b97a3fab6a3be1c3101ea027f2c1d009ddbef208a",
+      "linking" : "dynamic"
+    }
+  ]
+}
